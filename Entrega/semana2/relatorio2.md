@@ -24,7 +24,7 @@ Modelagem de dados é o processo de criar uma representação visual ou abstrata
 
 ### Funcionamento
 
-Na modelagem de dados tempos passos que precisam ser seguidos para realizar a modelagem. O primeiro deles é a coleta de requisitos onde precisamos indentificar e documentar os requisitos de dados com base nas necessidades do negócio. Depois a criação do modelo conceitual, usar diagramas ER ou outras ferramentas para representar entidades e relações. Criar o modelo lógico onde precisa detalhar o modelo conceitual com atributos, tipos de dados e relacionamentos. Criação do modelo físico onde precisa converter o modelo lógico em um esquema de banco de dados real, especificando detalhes de implementação, validação e refinamento, e por fim  Implementar o modelo físico em um sistema de banco de dados e configurar os dados de acordo com o modelo.
+Na modelagem de dados tempo passos que precisam ser seguidos para realizar a modelagem. O primeiro deles é a coleta de requisitos onde precisamos indentificar e documentar os requisitos de dados com base nas necessidades do negócio. Depois a criação do modelo conceitual, usar diagramas ER ou outras ferramentas para representar entidades e relações. Criar o modelo lógico onde precisa detalhar o modelo conceitual com atributos, tipos de dados e relacionamentos. Criação do modelo físico onde precisa converter o modelo lógico em um esquema de banco de dados real, especificando detalhes de implementação, validação e refinamento, e por fim  Implementar o modelo físico em um sistema de banco de dados e configurar os dados de acordo com o modelo.
 
 ### Ferramentas
 - ER/Studio
